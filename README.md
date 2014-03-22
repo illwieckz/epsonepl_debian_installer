@@ -5,4 +5,4 @@ This tool download epsonepl driver from sourceforge then compile it and build a 
 
 Author: Thomas DEBESSE <dev@illwieckz.net>
 
-License: [Expat](LICENSE.md).
+License: [Expat](LICENSE.md)
