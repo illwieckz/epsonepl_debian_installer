@@ -11,6 +11,7 @@ workspace='workspace'
 dir="${driver}-${version}"
 archive="${dir}.tgz"
 
+mkdir -p "${workspace}"
 cd "${workspace}"
 
 wget -nd -c "http://sourceforge.net/projects/${project}/files/${project}/${version}/${archive}/download" -O "${archive}"
