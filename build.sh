@@ -28,6 +28,7 @@ cd foomatic_scripts/
 EOF
 
 chmod +x install.sh
+
 fakeroot checkinstall --default --pkgname="${driver}" --pkgversion="${version}" --pkglicense 'unknown' --fstrans --install='no' make install
 cp -a "${driver}_"${version}"-1_"*".deb" ..
 
