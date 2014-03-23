@@ -3,9 +3,9 @@ Epson™ EPL Debian Installer
 
 This [tool](build.sh) download epsonepl free driver from SourceForge.net then compile it and build a Debian package using [checkinstall](http://asic-linux.com.mx/~izto/checkinstall/).
 
-Author: Thomas DEBESSE <dev@illwieckz.net>
+Author: Thomas DEBESSE <dev@illwieckz.net>.
 
-License: [Expat](LICENSE.md)
+License: [Expat](COPYING.md).
 
 Useful links
 ------------
