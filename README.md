@@ -5,7 +5,7 @@ This [tool](build.sh) download epsonepl free driver from SourceForge.net then co
 
 Author: Thomas DEBESSE <dev@illwieckz.net>.
 
-License: [ISC](COPYING.md).
+License of this tool (not the driver): [ISC](COPYING.md).
 
 Useful links
 ------------

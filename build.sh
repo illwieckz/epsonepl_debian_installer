@@ -2,7 +2,7 @@
 
 # AUTHOR: Thomas DEBESSE <dev@illwieckz.net>
 # VERSION: 20140222
-# License: Expat
+# License: ISC
 
 version='0.4.1'
 project='epsonepl'
